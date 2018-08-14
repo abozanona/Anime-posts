@@ -1,0 +1,1000 @@
+  568  cd operations/
+  569  vim test.php 
+  570  crontab -e
+  571  sudo service elasticsearch start
+  572  cd /var/www/html/
+  573  vim core.php 
+  574  cd operations/
+  575  vim test.php 
+  576  crontab -e
+  577  crontab 
+  578  crontab --help
+  579  cd /etc/
+  580  ls
+  581  run-parts ls
+  582  run-parts lslks
+  583  ls
+  584  vim cron.d
+  585  vim cron.daily/
+  586  vim cron.hourly/
+  587  vim cron.monthly/
+  588  cd /var/spool
+  589  ls
+  590  vim cron/
+  591  cd /var/www/html/
+  592  ls
+  593  clear
+  594  crontab --help
+  595  crontab -l
+  596  ls
+  597  cd /etc/crontab
+  598  cd /etc/
+  599  ls
+  600  vim cron
+  601  ls
+  602  vim crontab 
+  603  crontab -e
+  604  clear
+  605  crontab -e
+  606  sudo ls /var/spool/cron/crontabs/
+  607  cd /var/spool/cron/crontabs/
+  608  sudo ls /var/spool/cron/crontabs/
+  609  sudo vim /var/spool/cron/crontabs/abozanona
+  610  crontab -l
+  611  cd /home
+  612  ls
+  613  ls -a -h -l
+  614  crontab -e
+  615  ls
+  616  ls -a -h -l
+  617  crontab -e
+  618  ls -a -h -l
+  619  crontab -l
+  620  ls -a -h -l
+  621  crontab -l
+  622  echo 'hahahahahahahaha'
+  623  ls
+  624  cd abozanona/
+  625  ls
+  626  crontab 
+  627  crontab -e
+  628  cd ~
+  629  ls
+  630  vim test.php 
+  631  crontab 
+  632  crontab -e
+  633  ls
+  634  vim test.in
+  635  rm test.in
+  636  rm test.php 
+  637  rm test.in.save 
+  638  ls
+  639  cd files/
+  640  cd ..
+  641  rm -r files
+  642  ls
+  643  cd /var/www/html/
+  644  cd operations/
+  645  ls
+  646  vim updateImgTags.php 
+  647  /usr/bin/curl -o temp.txt http://animeposts.com/operations/updateImgTags.php
+  648  cd ~
+  649  /usr/bin/curl -o temp.txt http://animeposts.com/operations/updateImgTags.php
+  650  vim temp.txt 
+  651  crontab -e
+  652  crontab -l
+  653  sudo service elasticsearch start
+  654  cd /var/www/html/
+  655  ls
+  656  vim index.php 
+  657  vim core.php 
+  658  vim index.php 
+  659  ls
+  660  vim imgrec.php 
+  661  vim index.php 
+  662  vim imgrec.php 
+  663  vim index.php 
+  664  vim webpagefunctions.php 
+  665  vim imgrec.php 
+  666  vim loadmore.php 
+  667  vim operations/test.php 
+  668  vim index.php 
+  669  crontab -l
+  670  cd /var/www/html/
+  671  vim webpagefunctions.php 
+  672  ls
+  673  cd operations/
+  674  ls
+  675  vim update
+  676  vim updateVideos.php 
+  677  sudo apt-get install libopencv-dev python-opencv
+  678  cd ~
+  679  pwd
+  680  vim test.py
+  681  vim temp.txt 
+  682  python test.py 
+  683  vim libdc1394 error: Failed to initialize libdc1394
+  684  ls
+  685  vim libdc1394 
+  686  rename libdc1394 lbpcascade_animeface.xml
+  687  mv libdc1394 lbpcascade_animeface.xml
+  688  ls
+  689  vim test.py 
+  690  ls
+  691  vim test.py 
+  692  python test.py 
+  693  vim test.py 
+  694  python test.py 
+  695  vim test.py 
+  696  python test.py 
+  697  vim test.py 
+  698  clear
+  699  vim test.py 
+  700  python test.py 
+  701  vim test.py 
+  702  python test.py 
+  703  vim test.py 
+  704  python test.py 
+  705  vim test.py 
+  706  python test.py 
+  707  vim test.py 
+  708  python test.py 
+  709  vim test.py 
+  710  python test.py 
+  711  ls
+  712  vim test.py 
+  713  mkdir dataSet
+  714  vim test.py 
+  715  python test.py 
+  716  ls
+  717  cd dataSet/
+  718  ls
+  719  cd ..
+  720  vim test.py 
+  721  ls
+  722  cd dataSet/
+  723  ls
+  724  cd ../..
+  725  ls
+  726  cd abozanona/
+  727  vim test.py 
+  728  ls
+  729  rm -r dataSet/
+  730  cd /var/www/html/
+  731  ls
+  732  mkdir animefaces
+  733  sudo mkdir animefaces
+  734  cd ~/
+  735  ls
+  736  sudo mv lbpcascade_animeface.xml /var/www/html/animefaces/
+  737  sudo mv test.py /var/www/html/animefaces/
+  738  ls
+  739  cd /var/www/html/animefaces/
+  740  ls
+  741  vim test.py 
+  742  sudo mkdir dataSet
+  743  sudo mv test.py anime.py
+  744  ls
+  745  python anime.py 
+  746  sudo python anime.py 
+  747  cd ..
+  748  cd operations/
+  749  vim test.php 
+  750  cd ..
+  751  cd animefaces/
+  752  sudo vim imagelinks.in
+  753  cd /var/www/html/animefaces/
+  754  ls
+  755  vim images.in
+  756  cd /var/www/html/
+  757  clear
+  758  cd operations/
+  759  vim test.php 
+  760  clear
+  761  vim test.php 
+  762  ls
+  763  cd ../animefaces/
+  764  ls
+  765  vim images.in
+  766  clear
+  767  cd /var/www/html/animefaces/
+  768  ls
+  769  sudo vim images.in
+  770  ls
+  771  vim anime.py 
+  772  python anime.py 
+  773  vim anime.py 
+  774  python anime.py 
+  775  vim anime.py 
+  776  python anime.py 
+  777  vim anime.py 
+  778  python anime.py 
+  779  ls
+  780  python anime.py 
+  781  vim anime.py 
+  782  ls
+  783  cd dataSet/
+  784  ls
+  785  cd ..
+  786  rm -r dataSet/
+  787  sudo rm -r dataSet/
+  788  ls
+  789  python anime.py 
+  790  ls
+  791  sudo python anime.py 
+  792  ls
+  793  mkdir dataSet
+  794  sudo mkdir dataSet
+  795  sudo python anime.py 
+  796  cd dataSet/
+  797  ls
+  798  cd ..
+  799  sudo vim anime.py 
+  800  sudo python anime.py 
+  801  sudo vim anime.py 
+  802  sudo python anime.py 
+  803  sudo vim displayAllImages.php
+  804  sudo mv displayAllImages.php dataSet/
+  805  cd dataSet/
+  806  vim displayAllImages.php 
+  807  sudo vim displayAllImages.php 
+  808  cd /var/www/html/
+  809  cd animefaces/
+  810  cd dataSet/
+  811  ls
+  812  sudo mv displayAllImages.php ..
+  813  ls
+  814  cd ..
+  815  sudo vim displayAllImages.php 
+  816  ls
+  817  sudo vim anime.py 
+  818  sudo python anime.py 
+  819  ls
+  820  sudo rm http*
+  821  ls
+  822  sudo rm -r dataSet/
+  823  mkdir dataSet
+  824  sudo vim anime.py 
+  825  sudo python anime.py &
+  826  ls
+  827  sudo vim displayAllImages.php 
+  828  clear
+  829  ls
+  830  sudo mkdir dataSet
+  831  sudo python anime.py &
+  832  sudo vim displayAllImages.php 
+  833  sudo vim anime.py 
+  834  sudo rm -r dataSet/
+  835  sudo mkdir dataSet
+  836  ls
+  837  sudo python anime.py &
+  838  sudo vim anime.py 
+  839  sudo rm -r dataSet/
+  840  sudo nkdir dataSet
+  841  sudo mkdir dataSet
+  842  sudo python anime.py &
+  843  sudo vim anime.py 
+  844  sudo python anime.py &
+  845  sudo vim displayAllImages.php 
+  846  sudo vim anime.py 
+  847  sudo python anime.py &
+  848  sudo vim anime.py 
+  849  sudo vim displayAllImages.php 
+  850  clear
+  851  sudo rm -t dataSet/
+  852  sudo rm -r dataSet/
+  853  sudo mkDir dataSet
+  854  sudo mkdir dataSet
+  855  sudo python anime.py &
+  856  sudo vim anime.py 
+  857  cd /var/www/html/
+  858  ls
+  859  cd animefaces/
+  860  ls
+  861  sudo vim anime.py 
+  862  sudo python anime.py 
+  863  sudo vim anime.py 
+  864  sudo python anime.py 
+  865  sudo vim anime.py 
+  866  sudo python anime.py 
+  867  sudo vim anime.py 
+  868  sudo python anime.py 
+  869  sudo python anime.py &
+  870  sudo vim anime.py 
+  871  cd dataSet/
+  872  ls
+  873  find . -type f | wc -l
+  874  cd ..
+  875  sudo vim anime.py 
+  876  sudo python anime.py &
+  877  cd dataSet/
+  878  find . -type f | wc -l
+  879  cd ..
+  880  ls
+  881  cp displayAllImages.php setFaces.php
+  882  sudo cp displayAllImages.php setFaces.php
+  883  ls
+  884  sudo vim setFaces.php 
+  885  mkdir dataSet2
+  886  sudo mkdir dataSet2
+  887  sudo vim setFaces.php 
+  888  cd /var/www/html/
+  889  cd animefaces/
+  890  ls
+  891  sudo vim setFaces.php 
+  892  ls
+  893  sudo vim index.php 
+  894  sudo vim webpagefunctions.php 
+  895  cd /var/www/html
+  896  sudo vim webpagefunctions.php 
+  897  sudo vim index.php 
+  898  vim core.php 
+  899  sudo vim webpagefunctions.php 
+  900  vim core.php 
+  901  sudo vim webpagefunctions.php 
+  902  cd /var/www/html/
+  903  sudo vim index.php 
+  904  cd /var/www/html/
+  905  sudo vim index.php 
+  906  cd /bin/
+  907  ls
+  908  cd ../etc/
+  909  ls
+  910  cd elasticsearch/
+  911  ls
+  912  cd /usr/local/
+  913  ls
+  914  cd /var/run/elasticsearch
+  915  ls
+  916  curl "localhost:9200/_nodes?pretty=true&settings=true"
+  917  cd /var/lib/elasticsearch
+  918  ls
+  919  cd elasticsearch/
+  920  ls
+  921  cd nodes/
+  922  ls
+  923  cd 0
+  924  ls
+  925  cd /usr/share/elasticsearch
+  926  ls
+  927  clear
+  928  cd /usr/share/elasticsearch
+  929  ls
+  930  cd bin/
+  931  ls
+  932  plugin -install com.github.kzwang/elasticsearch-image/1.2.0
+  933  cd plugin 
+  934  plugin -install com.github.kzwang/elasticsearch-image/1.2.0
+  935  ls
+  936  cd plugin 
+  937  ./plugin -install com.github.kzwang/elasticsearch-image/1.2.0
+  938  sudo ./plugin -install com.github.kzwang/elasticsearch-image/1.2.0
+  939  curl -XPUT 'localhost:9200/conan/imagerec/_mapping' -d '{"imagerec": {"properties": {"my_img": {"type": "image","feature": {"CEDD": {"hash": "BIT_SAMPLING"},"JCD": {"hash": ["BIT_SAMPLING", "LSH"]},"FCTH": {}},"metadata": {"jpeg.image_width": {"type": "string","store": "yes"},"jpeg.image_height": {"type": "string","store": "yes"}}}}}}'
+  940  clear
+  941  cd /
+  942  curl -XPUT 'localhost:9200/conan/imagerec/_mapping' -d '{"imagerec": {"properties": {"my_img": {"type": "image","feature": {"CEDD": {"hash": "BIT_SAMPLING"},"JCD": {"hash": ["BIT_SAMPLING", "LSH"]},"FCTH": {}},"metadata": {"jpeg.image_width": {"type": "string","store": "yes"},"jpeg.image_height": {"type": "string","store": "yes"}}}}}}'
+  943  sudo service elasticsearch restart
+  944  curl -XPUT 'localhost:9200/conan/imagerec/_mapping' -d '{"imagerec": {"properties": {"my_img": {"type": "image","feature": {"CEDD": {"hash": "BIT_SAMPLING"},"JCD": {"hash": ["BIT_SAMPLING", "LSH"]},"FCTH": {}},"metadata": {"jpeg.image_width": {"type": "string","store": "yes"},"jpeg.image_height": {"type": "string","store": "yes"}}}}}}'
+  945  cd var/www/html/
+  946  clear
+  947  ls
+  948  vim imgrec.php 
+  949  sudo vim imgrecelastic.php
+  950  curl -XPUT 'localhost:9200/conan/imagerec/_mapping' -d '{"imagerec": {"properties": {"my_img": {"type": "image","feature": {"CEDD": {"hash": "BIT_SAMPLING"},"JCD": {"hash": ["BIT_SAMPLING", "LSH"]},"FCTH": {}},"metadata": {"jpeg.image_width": {"type": "string","store": "yes"},"jpeg.image_height": {"type": "string","store": "yes"}}},"title": {"type": "string"}}}}'
+  951  sudo vim imgrecelastic.php
+  952  history 
+  953  curl "localhost:9200/_nodes?pretty=true&settings=true"
+  954  cd ~
+  955  apt-get remove --purge elasticsearch-1.7.2.deb 
+  956  sudo apt-get remove --purge elasticsearch-1.7.2.deb 
+  957  sudo apt-get remove --purge elasticsearch
+  958  ls
+  959  sudo rm elasticsearch-1.7.2.deb 
+  960  wget https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.3.2.deb
+  961  ls
+  962  sudo dpkg -i elasticsearch-1.3.2.deb
+  963  sudo service elasticsearch start
+  964  sudo service elasticsearch restart
+  965  sudo apt-get remove --purge elasticsearch-1.3.2.deb 
+  966  wget https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.7.2.deb
+  967  sudo dpkg -i elasticsearch-1.7.2.deb
+  968  sudo service elasticsearch restart
+  969  sudo service elasticsearch start
+  970  cd /var/www/html/
+  971  ls
+  972  sudo vim imgrecelastic.php 
+  973  curl -XPUT 'localhost:9200/conan/imagerec/_mapping' -d '{"imagerec": {"properties": {"my_img": {"type": "image","feature": {"CEDD": {"hash": "BIT_SAMPLING"},"JCD": {"hash": ["BIT_SAMPLING", "LSH"]},"FCTH": {}},"metadata": {"jpeg.image_width": {"type": "string","store": "yes"},"jpeg.image_height": {"type": "string","store": "yes"}}},"title": {"type": "string"}}}}'
+  974  history
+  975  cd /usr/share/elasticsearch
+  976  ./plugin -install com.github.kzwang/elasticsearch-image/1.2.0
+  977  ls
+  978  cd plugins/
+  979  ls
+  980  ./plugin -install com.github.kzwang/elasticsearch-image/1.2.0
+  981  ls
+  982  cd ..
+  983  ls
+  984  cd bin/
+  985  ./plugin -install com.github.kzwang/elasticsearch-image/1.2.0
+  986  sudo ./plugin -install com.github.kzwang/elasticsearch-image/1.2.0
+  987  curl -XPUT 'localhost:9200/conan/imagerec/_mapping' -d '{"imagerec": {"properties": {"my_img": {"type": "image","feature": {"CEDD": {"hash": "BIT_SAMPLING"},"JCD": {"hash": ["BIT_SAMPLING", "LSH"]},"FCTH": {}},"metadata": {"jpeg.image_width": {"type": "string","store": "yes"},"jpeg.image_height": {"type": "string","store": "yes"}}},"title": {"type": "string"}}}}'
+  988  sudo service elasticsearch restar
+  989  sudo service elasticsearch restart
+  990  curl -XPUT 'localhost:9200/conan/imagerec/_mapping' -d '{"imagerec": {"properties": {"my_img": {"type": "image","feature": {"CEDD": {"hash": "BIT_SAMPLING"},"JCD": {"hash": ["BIT_SAMPLING", "LSH"]},"FCTH": {}},"metadata": {"jpeg.image_width": {"type": "string","store": "yes"},"jpeg.image_height": {"type": "string","store": "yes"}}},"title": {"type": "string"}}}}'
+  991  curl -XDELETE http://localhost:9200/conan/imagerec
+  992  curl -XPUT 'localhost:9200/conan/imagerec/_mapping' -d '{"imagerec": {"properties": {"my_img": {"type": "image","feature": {"CEDD": {"hash": "BIT_SAMPLING"},"JCD": {"hash": ["BIT_SAMPLING", "LSH"]},"FCTH": {}},"metadata": {"jpeg.image_width": {"type": "string","store": "yes"},"jpeg.image_height": {"type": "string","store": "yes"}}},"title": {"type": "string"}}}}'
+  993  cd /var/www/html/
+  994  sudo vim imgrecelastic.php 
+  995  sudo 
+  996  sudo apt-get clean
+  997  ls
+  998  history 
+  999  curl "localhost:9200/_nodes?pretty=true&settings=true"
+ 1000  cd /usr/share/elasticsearch
+ 1001  ls
+ 1002  cd plugins/
+ 1003  ls
+ 1004  cd image/
+ 1005  ls
+ 1006  cd ~
+ 1007  ls
+ 1008  mkdir elastic-image
+ 1009  cd elastic-image/
+ 1010  git clone https://github.com/kzwang/elasticsearch-image.git
+ 1011  sudo apt-get install git
+ 1012  git clone https://github.com/kzwang/elasticsearch-image.git
+ 1013  ls
+ 1014  cd elasticsearch-image/
+ 1015  ls
+ 1016  cd src/
+ 1017  ls
+ 1018  cd main/
+ 1019  ls
+ 1020  cd java/
+ 1021  ls
+ 1022  cd org/
+ 1023  ls
+ 1024  cd elasticsearch/
+ 1025  ls
+ 1026  vim index/query/image/ImageQueryParser.java
+ 1027  vim index/mapper/image/ImageMapper.java
+ 1028  cd ..
+ 1029  cd ../..
+ 1030  cd ..
+ 1031  zip -r elastic-img.zip elasticsearch-image/
+ 1032  sudo apt-get install zip
+ 1033  zip -r elastic-img.zip elasticsearch-image/
+ 1034  ls
+ 1035  cd /usr/share/elasticsearch
+ 1036  ls
+ 1037  cd plugins/
+ 1038  ls
+ 1039  sudo rm -r image/
+ 1040  cd 
+ 1041  cd bi
+ 1042  ls
+ 1043  cd /usr/share/elasticsearch
+ 1044  cd bin/
+ 1045  ls
+ 1046  ./plugin -install ~/elastic-image/elastic-img.zip 
+ 1047  sudo ./plugin -install ~/elastic-image/elastic-img.zip 
+ 1048  sudo ./plugin -install ~/elastic-image/elastic-img.zip --verbose
+ 1049  clear
+ 1050  sudo ./plugin -install ~/elastic-image/elastic-img.zip --verbose
+ 1051  sudo ./plugin -install https://github.com/abozanona/elasticsearch-image.git
+ 1052  cd ..
+ 1053  cd plugins/
+ 1054  l
+ 1055  ls
+ 1056  cd ..
+ 1057  ls
+ 1058  plugins/
+ 1059  ls
+ 1060  cd plugins/
+ 1061  ls
+ 1062  cd ..
+ 1063  ls
+ 1064  cd bin/
+ 1065  ls
+ 1066  sudo ./plugin -install com.github.abozanona/elasticsearch-image/1.2.1
+ 1067  sudo ./plugin -install com.github.abozanona/elasticsearch-image/1.2.1 --verbose
+ 1068  sudo ./plugin -install https://github.com/abozanona/elasticsearch-image.git
+ 1069  bin/plugin --install readonlyrest --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1070  ./bin/plugin --install readonlyrest --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1071  .bin/plugin --install readonlyrest --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1072  ls
+ 1073  ./plugin --install readonlyrest --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1074  sudo ./plugin --install readonlyrest --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1075  clear
+ 1076  sudo ./plugin --url file:~/elastic-image/elastic-img.zip --install elasticsearch-image
+ 1077  sudo ./plugin --url ~/elastic-image/elastic-img.zip --install elasticsearch-image
+ 1078  ./plugin -i com.github.abozanona/elasticsearch-image/1.2.1
+ 1079  sudo ./plugin -i com.github.abozanona/elasticsearch-image/1.2.1
+ 1080  sudo ./plugin -i com.github.abozanona/elasticsearch-image/1.2.1 --verbose
+ 1081  clear
+ 1082  sudo ./plugin -i com.github.abozanona/elasticsearch-image/1.2.1 --verbose
+ 1083  cd ..
+ 1084  cd plugins/
+ 1085  ls
+ 1086  cd ..
+ 1087  cd bin/
+ 1088  ls
+ 1089  sudo ./plugin -install abozanona/elasticsearch-image
+ 1090  sudo ./plugin -install abozanona/elasticsearch-image --verbous
+ 1091  sudo ./plugin -install abozanona/elasticsearch-image --verbose
+ 1092  bin/plugin --install readonlyrest --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1093  sudo /usr/share/elasticsearch/bin/plugin --install com.github.abozanona.elasticsearch-image/1.2.1
+ 1094  cd /usr/share/elasticsearch/bin/
+ 1095  ls
+ 1096  ./plugin --help
+ 1097  ./plugin -l
+ 1098  sudo /usr/share/elasticsearch/bin/plugin --install com.github.abozanona.elasticsearch-image/1.2.1
+ 1099  bin/plugin --install readonlyrest --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1100  cd /usr/share/elasticsearch/bin/
+ 1101  sudo ./plugin --install readonlyrest --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1102  sudo ./plugin -install abozanona/elasticsearch-image
+ 1103  sudo ./plugin  --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1104  sudo ./plugin --install abozanona/elasticsearch-image --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1105  sudo ./plugin --install elasticsearch-image --url 'https://github.com/abozanona/elasticsearch-image/archive/1.2.1.zip?raw=true'
+ 1106  mvn
+ 1107  sudo apt-get install mvn
+ 1108  cd ..
+ 1109  ls
+ 1110  cd lib/
+ 1111  ls
+ 1112  histpry
+ 1113  history
+ 1114  curl "localhost:9200/_nodes?pretty=true&settings=true"
+ 1115  cd /var/lib/elasticsearch
+ 1116  ls
+ 1117  cdel
+ 1118  cd elasticsearch/
+ 1119  ls
+ 1120  cd /usr/share/elasticsearch
+ 1121  ls
+ 1122  cd /etc/elasticsearch
+ 1123  ls
+ 1124  cd /var/log/elasticsearch
+ 1125  ls
+ 1126  history
+ 1127  curl "localhost:9200/_nodes?pretty=true&settings=true"
+ 1128  cd /var/lib/elasticsearchls
+ 1129  cd /var/lib/elasticsearch
+ 1130  ls
+ 1131  cd elasticsearch/
+ 1132  ls
+ 1133  cd nodes/
+ 1134  ls
+ 1135  cd 0
+ 1136  ls
+ 1137  cd indices/
+ 1138  ls
+ 1139  cd conan/
+ 1140  ls
+ 1141  cd 0
+ 1142  ls
+ 1143  cd index/
+ 1144  ls
+ 1145  cd /usr/share/elasticsearch
+ 1146  ls
+ 1147  cd lib/
+ 1148  ls
+ 1149  cd /etc/elasticsearch
+ 1150  ls
+ 1151  cd /var/log/elasticsearch
+ 1152  ls
+ 1153  cd ~
+ 1154  ls
+ 1155  rm -r elastic-image/
+ 1156  git clone https://github.com/abozanona/elasticsearch-image.git
+ 1157  mkdir test
+ 1158  cd te
+ 1159  cd test/
+ 1160  git clone https://github.com/abozanona/elasticsearch-image.git
+ 1161  ls
+ 1162  cd elasticsearch-image/
+ 1163  ls
+ 1164  cd ~
+ 1165  ls
+ 1166  sudo apt-get --purge autoremove elasticsearch
+ 1167  sudo rm -rf /var/lib/elasticsearch/
+ 1168  sudo rm -rf /etc/elasticsearch
+ 1169  sudo dpkg -i elasticsearch-1.3.2.deb 
+ 1170  sudo apt-get --purge autoremove elasticsearch
+ 1171  elasticserch
+ 1172  curl -XGET 'http://localhost:9200/'
+ 1173  sudo rm -rf /var/lib/elasticsearch/
+ 1174  sudo rm -rf /etc/elasticsearch
+ 1175  sudo dpkg -i elasticsearch-1.3.2.deb 
+ 1176  sudo /etc/init.d/elasticsearch start
+ 1177  curl -XGET 'http://localhost:9200/'
+ 1178  cd /var/www/html/
+ 1179  sudo vim imgrecelastic.php 
+ 1180  curl -XDELTE 'http://localhost:9200/conan'
+ 1181  curl -XDELETE localhost:9200/conan
+ 1182  cd /usr/share/elasticsearch
+ 1183  ls
+ 1184  cd bin/
+ 1185  ls
+ 1186  ./plugin -install com.github.kzwang/elasticsearch-image/1.2.0
+ 1187  sudo ./plugin -install com.github.kzwang/elasticsearch-image/1.2.0
+ 1188  sudo servise elasticsearch restart
+ 1189  sudo service elasticsearch restart
+ 1190  curl -XGET 'http://localhost:9200/'
+ 1191  cd /var/www/html/
+ 1192  sudi vim imgrecelastic.php 
+ 1193  sudo vim imgrecelastic.php 
+ 1194  curl -XPUT 'localhost:9200/conan/imagerec/_mapping' -d '{"imagerec": {"properties": {"my_img": {"type": "image","feature": {"CEDD": {"hash": "BIT_SAMPLING"},"JCD": {"hash": ["BIT_SAMPLING", "LSH"]},"FCTH": {}},"metadata": {"jpeg.image_width": {"type": "string","store": "yes"},"jpeg.image_height": {"type": "string","store": "yes"}}},"title": {"type": "string"}}}}'
+ 1195  curl -XPUT 'http://localhost:9200/conan'
+ 1196  curl -XPUT 'localhost:9200/conan/imagerec/_mapping' -d '{"imagerec": {"properties": {"my_img": {"type": "image","feature": {"CEDD": {"hash": "BIT_SAMPLING"},"JCD": {"hash": ["BIT_SAMPLING", "LSH"]},"FCTH": {}},"metadata": {"jpeg.image_width": {"type": "string","store": "yes"},"jpeg.image_height": {"type": "string","store": "yes"}}},"title": {"type": "string"}}}}'
+ 1197  sudo vim imgrecelastic.php 
+ 1198  cd ~
+ 1199  ls
+ 1200  cd /var/www/html/
+ 1201  sudo vim imgrecelastic.php 
+ 1202  cd /var/www/html/
+ 1203  sudo vim loadmore.php 
+ 1204  sudo vim core.php 
+ 1205  sudo vim loadmore.php 
+ 1206  sudo vim core.php 
+ 1207  cd operations/
+ 1208  sudo vim test.php 
+ 1209  cd ..
+ 1210  sudo vim loadmore.php 
+ 1211  history
+ 1212  curl -XGET 'localhost:9200/conan/posts'
+ 1213  history
+ 1214  curl 'localhost:9200/conan/posts'
+ 1215  curl 'localhost:9200/conan/'
+ 1216  curl 'localhost:9200/conan?search'
+ 1217  cd /var/www/html/
+ 1218  sudo vim loadmore.php 
+ 1219  sudo vim core.php 
+ 1220  sudo vim loadmore.php 
+ 1221  sudo vim index.php 
+ 1222  cd ~
+ 1223  sudo apt-get --purge autoremove elasticsearch
+ 1224  cd /usr/share/elasticsearch
+ 1225  ls
+ 1226  cd plugins/
+ 1227  ls
+ 1228  cd ..
+ 1229  cd ~
+ 1230  rm -r /usr/share/elasticsearch
+ 1231  sudo rm -f -r /usr/share/elasticsearch
+ 1232  sudo apt-get --purge autoremove elasticsearch
+ 1233  sudo rm -rf /var/lib/elasticsearch/
+ 1234  sudo rm -rf /etc/elasticsearch
+ 1235  ls
+ 1236  sudo dpkg -i elasticsearch-1.7.2.deb 
+ 1237  sudo service elasticsearch start
+ 1238  sudo service elasticsearch status
+ 1239  curl -XGET "http://localhost:9200/_cluster/health?pretty=true"
+ 1240  cd /var/lib/elasticsearch/
+ 1241  ls
+ 1242  cd elasticsearch/
+ 1243  ls
+ 1244  cd nodes/
+ 1245  ls
+ 1246  cd /var/www/html/
+ 1247  sudo vim loadmore.php 
+ 1248  cd /var/www/html/
+ 1249  mkdir episodes
+ 1250  cd episodes
+ 1251  sudo mkdir episodes
+ 1252  cd episodes
+ 1253  sudo vim kito.php
+ 1254  cd /var/www/html/
+ 1255  sudo vim c
+ 1256  ls
+ 1257  sudo vim core.php 
+ 1258  vim index.php 
+ 1259  cd /var/www/html/
+ 1260  sudo vim core.php 
+ 1261  cd /var/www/html/
+ 1262  sudo vim core.php 
+ 1263  curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" > /tmp/intermezzo.html
+ 1264  vim /tmp/intermezzo.html
+ 1265  curl -L -b /tmp/cookies "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')" > FINAL_DOWNLOADED_FILENAME
+ 1266  vim /tmp/intermezzo.html
+ 1267  curl -L -b /tmp/cookies "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' 
+ 1268  clear
+ 1269  curl --help\
+ 1270  curl --help
+ 1271  cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*'
+ 1272  clear
+ 1273  curl -L -b /tmp/cookies "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1274  clear
+ 1275  curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" > /tmp/intermezzo.html
+ 1276  curl -L -b /tmp/cookies "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1277  1;2cclear
+ 1278  clear
+ 1279  curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" > /tmp/intermezzo.html
+ 1280  curl -Ls -b /tmp/cookies "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')" > FINAL_DOWNLOADED_FILENAME
+ 1281  curl -Ls -b /tmp/cookies "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1282  curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" > /tmp/intermezzo.html
+ 1283  clear
+ 1284  curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" > /tmp/intermezzo.html
+ 1285  curl -Ls -b /tmp/cookies -w %{url_effective} "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1286  1;2cclear
+ 1287  clear
+ 1288  curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" > /tmp/intermezzo.html
+ 1289  curl -Ls -w %{url_effective} -o /dev/null "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1290  curl -Ls -b /tmp/cookies -w %{url_effective} -o /dev/null "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1291  curl -Ls -b /tmp/cookies -w %{url_effective} -o /dev/null "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')" > /tmp/docsurl
+ 1292  vim /tmp/docsurl
+ 1293  cd /var/www/html/
+ 1294  ls
+ 1295  cd operations/
+ 1296  ls
+ 1297  ls -a -l -h
+ 1298  sudo vim getDirectUrl.php
+ 1299  curl -Ls -b /tmp/cookies -w %{url_effective} -o /dev/null "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')" 
+ 1300  cd /var/www/html/
+ 1301  cd operations/
+ 1302  ls
+ 1303  sudo vim getDirectUrl.php 
+ 1304  curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" > /tmp/intermezzo.html;curl -Ls -b /tmp/cookies -w %{url_effective} -o /dev/null "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&/\&/g')"
+ 1305  curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" > /tmp/intermezzo.html
+ 1306  curl -Ls -b /tmp/cookies -w %{url_effective} -o /dev/null "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1307  ls
+ 1308  cd ..
+ 1309  ls
+ 1310  cd animefaces/
+ 1311  ls
+ 1312  vim displayAllImages.php 
+ 1313  cd ..
+ 1314  cd operations/
+ 1315  ls
+ 1316  vim getDirectUrl.php 
+ 1317  sudo vim getDirectUrl.php 
+ 1318  echo aaa > $1 | echo $1
+ 1319  echo aaa |
+ 1320  echo aaa > $1 | echo
+ 1321  echo aaa | echo
+ 1322  echo 
+ 1323  echo 'aaa' | echo
+ 1324  sudo vim getDirectUrl.php 
+ 1325  curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B1zCZ0CBPrevQ0tWaTlhNlJ3S1E" > /tmp/intermezzo.html;curl -Ls -b /tmp/cookies -w %{url_effective} -o /dev/null "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1326  sudo vim getDirectUrl.php 
+ 1327  curl -Ls -b /tmp/cookies -w %{url_effective} -o /dev/null "https://drive.google.com$(cat /tmp/intermezzo.html | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1328  curl -c $x "https://drive.google.com/uc?export=download&id=0B1zCZ0CBPrevQ0tWaTlhNlJ3S1E" > $y;curl -Ls -b $x -w %{url_effective} -o /dev/null "https://drive.google.com$($y | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&/\&/g')"
+ 1329  clear
+ 1330  x = "";y = "";curl -c $x "https://drive.google.com/uc?export=download&id=0B1zCZ0CBPrevQ0tWaTlhNlJ3S1E" > $y;curl -Ls -b $x -w %{url_effective} -o /dev/null "https://drive.google.com$($y | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&/\&/g')"
+ 1331  sudo vim getDirectUrl.php 
+ 1332  ls -a -l -h
+ 1333  sudo chmod 777 getDirectUrl.php 
+ 1334  cd /var/www/html/operations/
+ 1335  sudo vim getDirectUrl.php 
+ 1336  echo $(logname)
+ 1337  ls -a -l -h
+ 1338  sudo vim getDirectUrl.php 
+ 1339  vim /tmp/intermezzo.html
+ 1340  sudo vim getDirectUrl.php 
+ 1341  cd ..
+ 1342  ls
+ 1343  cd episodes/
+ 1344  sudo vim conan.php
+ 1345  cd ..
+ 1346  cd operations/
+ 1347  sudo vim getDirectUrl.php 
+ 1348  vim /tmp/cookies
+ 1349  curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU"
+ 1350  rm /tmp/cookies
+ 1351  vim /tmp/cookies
+ 1352  clear
+ 1353  curl -Ls -b /tmp/cookies -w %{url_effective} -o /dev/null "https://drive.google.com$(curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1354  clear
+ 1355  cd /var/www/html/
+ 1356  cd operations/
+ 1357  sudo vim getDirectUrl.php 
+ 1358  sudo rm /tmp/cookies 
+ 1359  curl -Ls -b /tmp/cookies -w %{url_effective}  "https://drive.google.com$(curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1360  1;2c1;2c
+ 1361  lear
+ 1362  clear
+ 1363  ls
+ 1364  vim getDirectUrl.php 
+ 1365  su abozanona
+ 1366  curl -Ls -b cookies -w %{url_effective} -o /dev/null "https://drive.google.com$(curl -c cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1367  curl -Ls -b /tmp/cookies -w %{url_effective} -o /dev/null "https://drive.google.com$(curl -c /tmp/cookies "https://drive.google.com/uc?export=download&id=0B43CDOqEUHyfQndoV0NFb0lpZUU" | grep -Po 'uc-download-link" [^>]* href="\K[^"]*' | sed 's/\&amp;/\&/g')"
+ 1368  vim getDirectUrl.php 
+ 1369  cd /var/www/html/operations/getDirectUrl.php 
+ 1370  cd /var/www/html/operations
+ 1371  sudo vim getDirectUrl.php 
+ 1372  vim /dev/null
+ 1373  sudo vim getDirectUrl.php 
+ 1374  ls -a -l- h
+ 1375  ls -a -l -h
+ 1376  sudo chown www-data getDirectUrl.php 
+ 1377  ls -a -l -h
+ 1378  sudo vim getDirectUrl.php 
+ 1379  ls -a -l -h
+ 1380  sudo vim getDirectUrl.php 
+ 1381  cd /var/www/
+ 1382  ls -a
+ 1383  ls -a -l
+ 1384  ls -l
+ 1385  sudo chown www-data:www-data '/var/www/html'
+ 1386  ls -l
+ 1387  sudo chown -r www-data:www-data '/var/www/html'
+ 1388  man chown
+ 1389  sudo chown -R www-data:www-data '/var/www/html'
+ 1390  sudo chown -R root:root '/var/www/html'
+ 1391  ls -l
+ 1392  cd html/
+ 1393  ls
+ 1394  ls -l
+ 1395  cd operations/
+ 1396  vim getDirectUrl.php 
+ 1397  ssh -t remotehost "sudo <cmd>"
+ 1398  ssh -t remotehost "sudo <curl>"
+ 1399  sudo visudo
+ 1400  vim getDirectUrl.php 
+ 1401  clear
+ 1402  sudo su root && whoami 2>&1
+ 1403  cd /var/www/html/operations/
+ 1404  sudo vim getDirectUrl.php 
+ 1405  which curl
+ 1406  which grep
+ 1407  which sed
+ 1408  sudo vim getDirectUrl.php 
+ 1409  cd /var/www/html/
+ 1410  ls
+ 1411  cd episodes/
+ 1412  ls
+ 1413  sudo vim movies.php
+ 1414  sudo vim conanova.php
+ 1415  cd /var/www/html/
+ 1416  vim core.php 
+ 1417  sudo vim core.php 
+ 1418  sudo vim loadmore.php 
+ 1419  sudo vim core.php 
+ 1420  sudo vim index.php 
+ 1421  sudo vom about.php 
+ 1422  sudo vim about.php 
+ 1423  ls
+ 1424  cd operations/
+ 1425  ls
+ 1426  sudo vim updateVideos.php 
+ 1427  sudo vim loadThisDay.php 
+ 1428  cd ..
+ 1429  sudo vim loadmore.php 
+ 1430  cd operations/
+ 1431  sudo vim updateVideos.php 
+ 1432  cd ..
+ 1433  sudo vim loadmore.php 
+ 1434  cd /var/www/html/
+ 1435  sudo vim index.php 
+ 1436  cd /var/www/html/
+ 1437  ls
+ 1438  cd episodes/
+ 1439  sudo vim version.php
+ 1440  cd ..
+ 1441  clear
+ 1442  sudo vim about.php 
+ 1443  sudo vim index.php 
+ 1444  cd /var/www/html/
+ 1445  ls
+ 1446  sudo vim ajax.php 
+ 1447  sudo vim loadmore.php 
+ 1448  sudo vim api.php 
+ 1449  sudo vim ajax.php 
+ 1450  sudo vim api.php 
+ 1451  sudo vim ajax.php 
+ 1452  cd /var/www/html/
+ 1453  sudo vim episodes/version.php 
+ 1454  cd /var/www/html/
+ 1455  sudo vim index.php 
+ 1456  sudo vim about.php 
+ 1457  cd /var/www/html/
+ 1458  sudo vim core.php 
+ 1459  sudo vim loadmore.php 
+ 1460  cd operations/
+ 1461  ls -l
+ 1462  sudo vim loadThisDay.php 
+ 1463  cd ..
+ 1464  sudo vim loadmore.php 
+ 1465  cd /var/www/html/
+ 1466  ls
+ 1467  cd episodes/
+ 1468  ls
+ 1469  cd /var/www/html/episodes/
+ 1470  ls
+ 1471  sudo vim apperancephp
+ 1472  sudo vim apperance.php
+ 1473  cd ..
+ 1474  sudo vim index.php 
+ 1475  sudo vim about.php 
+ 1476  ls
+ 1477  cd episodes/
+ 1478  ls
+ 1479  sudo vim version.php 
+ 1480  cd /var/www/html/
+ 1481  ls
+ 1482  sudo vim core.php 
+ 1483  ls
+ 1484  cd operations/
+ 1485  ls
+ 1486  cd ..
+ 1487  vim loadmore.php 
+ 1488  sudo vim loadmore.php 
+ 1489  cd /var/www/html/
+ 1490  sudo vim core.php 
+ 1491  cd /var/www/html/
+ 1492  sudo vim core.php 
+ 1493  cd /var/www/html/
+ 1494  sudo vim core.php 
+ 1495  cd /var/www/html/
+ 1496  sudo vim loadmore.php 
+ 1497  cd /var/www/html/
+ 1498  sudo vim core.php 
+ 1499  cd /var/www/html/
+ 1500  ls
+ 1501  cd /var/www/html/
+ 1502  sudo vim core.php 
+ 1503  cd /var/www/html/
+ 1504  ls
+ 1505  vim imgrec.php 
+ 1506  sudo cp imgrec.php grad.php
+ 1507  sudo vim grad.php 
+ 1508  cd /var/www/html/
+ 1509  mkdir email
+ 1510  sudo mkdir email
+ 1511  cd email/
+ 1512  cd /var/www/html/
+ 1513  ls
+ 1514  vim index.php 
+ 1515  ls -a -l -h
+ 1516  vim initDatabase.php 
+ 1517  cls
+ 1518  clear
+ 1519  ls -a -l -h
+ 1520  cd /var/www/html/
+ 1521  ls -a -l -h
+ 1522  sudo vim hack.php
+ 1523  vim processpost.php 
+ 1524  sudo vim hack.php
+ 1525  cd /var/www/html/
+ 1526  ls -a -l -h
+ 1527  vim initDatabase.php 
+ 1528  sudo vim hack.php 
+ 1529  cd /var/www/html/
+ 1530  ls -a -l -h
+ 1531  vim hack.php 
+ 1532  cd operations/
+ 1533  ls -a -l
+ 1534  vim test.php 
+ 1535  cd ..
+ 1536  ls -l
+ 1537  vim hack.php 
+ 1538  sudo vim hack.php 
+ 1539  vim initDatabase.php 
+ 1540  sudo vim hack.php 
+ 1541  cd /var/www/html/
+ 1542  sudo vim hack.php 
+ 1543  cd /var/www/html/
+ 1544  sudo vim hack.php 
+ 1545  vin hack.php 
+ 1546  vim hack.php 
+ 1547  sudo vim hack.php 
+ 1548  cd /var/www/html/
+ 1549  ls -a -l *h
+ 1550  ls -a -l -h
+ 1551  sudo vim core.php
+ 1552  cd operations/
+ 1553  ls -a -l
+ 1554  vim test.php 
+ 1555  vim updateVideos.php 
+ 1556  sudo vim updateVideos.php 
+ 1557  cd ..
+ 1558  sudo vim core.php 
+ 1559  cd operations/
+ 1560  sudo vim updateVideos.php 
+ 1561  cd /var/www/html/
+ 1562  ls -a -l -h
+ 1563  sudo rm hack.php 
+ 1564  history
+ 1565  history|cat history.in
+ 1566  history|copy history.in
+ 1567  history> history.in

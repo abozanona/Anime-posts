@@ -1,2 +1,3 @@
 # Anime-posts
-A university project
+
+This project was developed in *10/10/2017*

@@ -1,0 +1,127 @@
+.showmore { line-height:18px; }
+.showmore_content { position:relative; overflow:hidden; }			
+.showmore_trigger { width:100%; height:45px; line-height:45px; cursor:pointer; }
+.showmore_trigger span { display:block; }
+.emojholder{
+	position: relative;
+}
+.emoj{
+    background-image: url(http://i.imgur.com/3VHpfgL.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: absolute;
+    height: 48px;
+    width: 48px;
+}
+.like{
+    background-position: 0 -147px;
+}
+.love{
+    background-position: 0 -196px;
+}
+.haha{
+    background-position: 0 -98px;
+}
+.wow{
+    background-position: 0 -294px;
+}
+.sad{
+    background-position: 0 -245px;
+}
+.angry{
+    background-position: 0 0;
+}
+/*-- Global Selectors --*/
+a{
+    color:#47649F;
+}
+
+body{
+    font-family:'helvetica';    
+}
+
+/*-- Bootstrap Override Style --*/
+
+
+/*-- Content Style --*/
+.post-footer-option li{
+    float:right;
+    margin-left:50px;
+    padding-bottom:15px;
+}
+
+.post-footer-option li a{
+    color:#AFB4BD;
+    font-weight:500;
+    font-size:1.3rem;
+}
+
+.photo-profile{
+    border:1px solid #DDD;    
+}
+
+.anchor-username h4{
+    font-weight:bold;    
+}
+
+.anchor-time{
+    color:#ADB2BB;
+    font-size:1.2rem;
+}
+
+.post-footer-comment-wrapper{
+    background-color:#F6F7F8;
+}
+
+.imagesHolder .item{
+    text-align: center;
+}
+.postimg{
+    max-height: 300px;
+    min-height: 300px;
+    display: initial !important;
+    margin: 6px;
+}
+.pager li {
+    display: table-cell;
+}
+.pager {
+    padding: 4px;
+}
+::-webkit-scrollbar{
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track{
+    background: #F1F1F1;
+}
+::-webkit-scrollbar-thumb{
+    background: #A9A9A9;
+}
+section{
+    margin-top: 6px;
+}
+.pager{
+    margin-top: 6px; 
+}
+.btn-shortcut{
+    padding: 3px;
+    margin: 5px;
+    display: block;
+    text-align: right;
+}
+.shortcuts {
+    position: fixed;
+    right: 30px;
+    top: 60px;
+}
+table.chartable td{
+    border: 1px #eee solid;
+    padding: 0.2em;
+    background: #ccc;
+}
+table.chartable{
+    padding: 4px;
+    background: white;
+}
